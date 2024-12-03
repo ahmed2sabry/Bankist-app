@@ -4,7 +4,7 @@
 
 <h3>Bankist App Preview </h3>
 <br>
-<img src = 'Preview.png'>
+<img src = 'preview.png'>
 
 Bankist App is a JavaScript-based banking application that I developed as part of the Jonas Schmedtmann's JavaScript course. It allows users to manage their accounts, perform various banking operations, and experience a seamless and secure online banking experience.
 
