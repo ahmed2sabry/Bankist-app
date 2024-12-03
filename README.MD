@@ -16,11 +16,6 @@ Bankist App is a JavaScript-based banking application that I developed as part o
 - 💰 **Request Loan**: Request a loan from the bank based on your account history.
 - 🚪 **Close Account**: Close your account and terminate your banking relationship.
 
-## Demo
-
-A live demo of the Bankist App can be found [here](https://gentle-cobbler-211736.netlify.app/).
-
-Please note that the live demo may not show the console for security reasons.
 
 ## Technologies Used
 
